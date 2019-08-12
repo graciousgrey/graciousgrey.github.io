@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://graciousgrey.github.io/posts/compare-test-frameworks/</loc>
+    <loc>https://graciousgrey.github.io/blog/posts/compare-test-frameworks/</loc>
     <lastmod>2019-06-25T17:05:22+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://graciousgrey.github.io/posts/</loc>
-    <lastmod>2019-06-25T17:05:22+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://graciousgrey.github.io/</loc>
+    <loc>https://graciousgrey.github.io/blog/posts/</loc>
     <lastmod>2019-06-25T17:05:22+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://graciousgrey.github.io/categories/</loc>
+    <loc>https://graciousgrey.github.io/blog/</loc>
+    <lastmod>2019-06-25T17:05:22+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://graciousgrey.github.io/tags/</loc>
+    <loc>https://graciousgrey.github.io/blog/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://graciousgrey.github.io/blog/tags/</loc>
     <priority>0</priority>
   </url>
   
