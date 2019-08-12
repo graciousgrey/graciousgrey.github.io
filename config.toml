@@ -1,4 +1,4 @@
-baseUrl = "https://graciousgrey.gitlab.io/"
+baseUrl = "https://graciousgrey.github.io/"
 languageCode = "en-us"
 relativeURLs = true
 contentDir    = "content"
